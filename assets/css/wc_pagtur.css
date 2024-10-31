@@ -1,0 +1,32 @@
+
+    .pagtur_pay_icon {background: transparent !important; border-radius: 8px;width: 150px !important;}
+    
+    .payment_box {padding: 0 !important;margin: 0;}
+
+    .payment_method_pagtur {font-size: .92em !important;}
+
+    .pagtur-payment-container {position: relative;box-sizing: border-box;width: 100%;padding: 1em;margin: 1em 0;border-radius: 2px;line-height: 1.5;background-color: #DFDCDE;color: #515151;}
+
+    .pagtur-form-row {margin-top: 10px;margin-bottom: 10px;}
+
+    .pagtur-form-row-first {width: 47%;float: left;margin-right: 6%;margin-top: 0px;clear: both;}
+
+    .pagtur-form-row-last {width: 47%;float: right;margin-top: 0px;margin-right: 0;}
+
+    .pagtur-form-row label {display: block;font-weight: normal;}
+
+    .pagtur-form-row input, .pagtur-form-row select, .pagtur-form-row textarea {width: 100%;}
+
+    .pagtur-form-row:not(.pagtur-form-row-first):not(.pagtur-form-row-last):not(.pagtur-form-row-wide) {clear: both;}
+
+    .pagtur-form-row select {height: 46px;}
+    
+    .pagtur-error {border: 1px solid #bd7977 !important;background-color: #f4dddd !important;}
+    
+    .pagtur-typ-container {font-family: monospace; position: relative; box-sizing: border-box;width: 100%;padding: 1em;margin: 1em 0;border-radius: 2px;line-height: 1.5; border:1px solid rgba(0,0,0,.1)}
+
+    .pagtur-typ-title {font-weight: bold; font-size:1.5em;}
+
+    .pagtur-typ-btn {color: #fff; background-color: #28a745; border-color: #28a745;}
+    
+    .pagtur-wc-credit-card-form-holder-name,.pagtur-wc-credit-card-form-cpf,.pagtur-wc-credit-card-form-birth-date,.pagtur-wc-credit-card-form-card-expiry {padding:8px !important;font-size: 1.5em;background-repeat: no-repeat;background-position: right .618em center;background-size: 32px 20px;}

@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC_Pagtur_Plugin\n"
+"POT-Creation-Date: 2019-04-29 10:36-0300\n"
+"PO-Revision-Date: 2019-04-29 10:36-0300\n"
+"Last-Translator: \n"
+"Language-Team: PagTur\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "PagTur for WooCommerce"
+msgstr "Pagtur para WooCommerce"
+
+msgid "PagTur Payment Plugin for WooCommerce"
+msgstr "Plugin WooCommerce para pagamentos PagTur"
+
+msgid "Credit Card"
+msgstr "Cartão de Crédito"
+
+msgid "Integration"
+msgstr "Integração"
+
+msgid "Contact our team to obtain your integration key. Visit <a href='https://www.pagtur.com.br/'>PagTur</a>"
+msgstr "Contate-nos para obter suas credenciais. Visite <a href='https://www.pagtur.com.br/'>PagTur</a>"
+
+msgid "Debug Mode"
+msgstr "Modo Debug"
+
+msgid "Enable Debug Mode"
+msgstr "Ativar Modo Debug"
+
+msgid "Record all transactions"
+msgstr "Registrar todas as transações"
+
+msgid "Sandbox Mode"
+msgstr "Modo Teste (Sandbox)"
+
+msgid "Enable Sandbox Mode"
+msgstr "Ativar Modo Teste (Sandbox)"
+
+msgid "With this option, all processed transactions are not be valid"
+msgstr "Com este opção, todas as transações processadas não serão válidas"
+
+msgid "CPF Enable"
+msgstr "Ativar CPF"
+
+msgid "Enable PagTur CPF Checkout Field"
+msgstr "Ativar CPF Pagtur no Formulário de Checkout"
+
+msgid "Enable this option to add CPF field into Checkout Form"
+msgstr "Ative este opção para adicionar o campo CPF ao formulário do Checkout"
+
+msgid "Integration UserName"
+msgstr "Usuário para Integração"
+
+msgid "Integration Password"
+msgstr "Senha para Integração"
+
+msgid "Integration Company"
+msgstr "Empresa para Integração"
+
+msgid "Advanced Options"
+msgstr "Opções Avançadas"
+
+msgid "SoftDescriptor (Max 10 chars)"
+msgstr "SoftDescriptor (Max 10 caracteres)"
+
+msgid "Define how show your company into Credit Card bills"
+msgstr "Como sua empresa será apresentada na fatura do cartão de crédito"
+
+msgid "Company Currency"
+msgstr "Moedas de Câmbio disponíveis"
+
+msgid "Your available exchange currencies"
+msgstr "Suas moedas de câmbio disponíveis"
+
+msgid "You must 'Save Changes' with your valid credentials before get your available currencies list"
+msgstr "Você deve 'Salvar Alterações' com suas credenciais válidas antes de obter sua lista de moedas de câmbio"
+
+msgid "Cardholder Name"
+msgstr "Titular do Cartão"
+
+msgid "CPF"
+msgstr "CPF"
+
+msgid "BirthDate"
+msgstr "Data de Nascimento"
+
+msgid "CreditCard Number"
+msgstr "Número do Cartão"
+
+msgid "Expiration Month Year"
+msgstr "Expiração (Mês/Ano)"
+
+msgid "CVV"
+msgstr "CVV"
+
+msgid "Installments"
+msgstr "Parcelas"
+
+msgid "PagTur - Settings"
+msgstr "PagTur - Config"
+
+msgid "Your WooCommerce Currency is %s"
+msgstr "O WooCommerce está usando a seguinte moeda: %s"
+
+msgid "Travel Agency"
+msgstr "Agência de Viagens"
+
+msgid "Fill your Travel Agency Data"
+msgstr "Preencha com as informações de sua agência"
+
+msgid "Travel Agency Name"
+msgstr "Nome da Agência"
+
+msgid "Travel Agency Email"
+msgstr "Email da Agência"
+
+msgid "Travel Agency Phone"
+msgstr "Telefone da Agência"
+
+msgid "Payment not available to this currency"
+msgstr "Pagamento não disponível para esta moeda"
+
+msgid "Sorry. Try again"
+msgstr "Desculpe. Tente novamente!"
+
+msgid "Ops! Transaction not approved"
+msgstr "Ops! Transação não autorizada"
+
+msgid "Select your installment plan"
+msgstr "Escolha a quantidade de parcelas"
+
+msgid "Card Holder Name is required"
+msgstr "Titular do Cartão requerido"
+
+msgid "CPF is required"
+msgstr "CPF requerido"
+
+msgid "Birth Date is required"
+msgstr "Data de Nascimento requerido"
+
+msgid "Credit Card Number is required"
+msgstr "Número do Cartão requerido"
+
+msgid "Expiration Month and Year is required"
+msgstr "Expiração (Mês/Ano) requerido"
+
+msgid "Installments is required"
+msgstr "Selecione uma opção de Parcelamento"
+
+msgid "Total Amount"
+msgstr "Valor Total"
+
+msgid "PagTur Transaction Details"
+msgstr "PagTur - Detalhe da Transação"
+
+msgid "PRINT"
+msgstr "IMPRIMIR"
+
+msgid "Auth Code"
+msgstr "Nr. Autorização"
+
+msgid "Card Holder Name invalid. Must be contains more than 5 letters"
+msgstr "Titular do Cartão inválido. Deve conter mais de 5 letras"
+
+msgid "CPF invalid"
+msgstr "CPF inválido"
+
+msgid "Birth date invalid"
+msgstr "Data de Nascimento inválida"
+
+msgid "Credit Card invalid"
+msgstr "Cartão de Crédito inválido"
+
+msgid "Expiration Date invalid"
+msgstr "Data de Expiração inválida"
+
+msgid "CVV invalid"
+msgstr "CVV inválido"
+
+msgid "You need to select a installment plan"
+msgstr "Você precisa selecionar um opção de parcelamento"
+
